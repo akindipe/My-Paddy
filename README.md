@@ -1,6 +1,6 @@
-# my_paddy_app
+## My Paddy
 
-A new Flutter application.
+# My paddy is a flutter social media UI. It gives developers a head start in developing a social media app in flutter and dart.
 
 ## Getting Started
 
